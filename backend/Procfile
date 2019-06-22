@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bips_5012.wsgi:application
